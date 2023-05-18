@@ -3,6 +3,8 @@ Batman theme ~~handwired~~ keeb. KLE remixed by jade the maid and pcb design by 
 
 Rev 6, fixed mcu outline, added Cirque trackpad outline. Currently being printed and finger crossed. Still need to figure out the Cirque coding.
 
+May 18, 2023 - Uploaded and released Rev 7B for public. Untested, so please print at your own risk. No support is given.
+
 Front side
 ![Screenshot 2023-05-04 at 11 54 19 AM](https://user-images.githubusercontent.com/118025702/236316799-80172c2d-209d-47f9-bb36-eeef42539433.png)
 
