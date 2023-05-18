@@ -5,6 +5,13 @@ Rev 6, fixed mcu outline, added Cirque trackpad outline. Currently being printed
 
 May 18, 2023 - Uploaded and released Rev 7B for public. Untested, so please print at your own risk. No support is given.
 
+Rev 7B Pcb pics:
+Front side
+![Screenshot 2023-05-18 at 12 53 52 AM](https://github.com/protieusz/Batarang/assets/118025702/3d1ea2c6-52c0-442f-b121-e502321eb50d)
+
+Back side
+![Screenshot 2023-05-18 at 12 54 27 AM](https://github.com/protieusz/Batarang/assets/118025702/837e27ae-9cb1-40c8-bb00-336b25a68478)
+
 Front side
 ![Screenshot 2023-05-04 at 11 54 19 AM](https://user-images.githubusercontent.com/118025702/236316799-80172c2d-209d-47f9-bb36-eeef42539433.png)
 
