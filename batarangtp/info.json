@@ -30,7 +30,8 @@
     "features": {
         "bootmagic": true,
         "mousekey": true,
-        "extrakey": true
+        "extrakey": true'
+        "encoder": true
     },
     
 "layouts": {
