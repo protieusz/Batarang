@@ -32,7 +32,7 @@
 #define POINTING_DEVICE_TASK_THROTTLE_MS 10
 
 // Adjust trackpad rotation.
-#define POINTING_DEVICE_ROTATION_180
+#define POINTING_DEVICE_ROTATION_90
 
 // Configure for the Cirque model used on the Dilemma.
 #define CIRQUE_PINNACLE_DIAMETER_MM 40
