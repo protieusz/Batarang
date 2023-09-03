@@ -1,6 +1,8 @@
 # Batarang
 Batman theme ~~handwired~~ keeb. KLE remixed by jade the maid and pcb design by yours truly. MCU used is Pimoroni PGA2040.
 
+I accept any tips or donations of a cup of coffee to help keep me motivate but you don't have to if you don't want to. Thanks. https://ko-fi.com/protieusz
+
 Rev 5 Final PCB built with 1 minor issue, traces for D+ and D- for the usb breakout board is routed wrong so I have to do handwiring to fix it. Cirque trackpad holder 3d stl still need work since my own mods did not quite fit so I had to borrow Dilemma's trackpad hold for 40mm diameter size and hot glued it onto the pcb. I might try to create a 3D trackpad holer that fits the pcb.
 
 ![IMG_8874](https://github.com/protieusz/Batarang/assets/118025702/df817824-4093-4bca-b787-2023050d8d66)
